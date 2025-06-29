@@ -1,0 +1,2 @@
+"Hola, este es un ejemplo de conflicto." 
+"L¡nea a¤adida por alumno 1" 
